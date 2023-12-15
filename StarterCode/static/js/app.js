@@ -86,9 +86,3 @@ function optionChanged(sample) {
 
 // Initialize the application
 init();
-
-
-  
-  
-
-  
